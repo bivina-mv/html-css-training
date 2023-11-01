@@ -126,3 +126,34 @@ button {
     margin-right: 10px;
 
 }
+
+.ourspecail{
+    margin-top: 70px;
+    align-items: center;
+    text-align: center;
+}
+
+.ourspecail h6{
+    color: #211E1E;
+    margin: 10px;
+}
+
+.ourspecail h2{
+    margin: 10px;
+}
+
+.ourspecial-imag{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+
+#ourspecial-size{
+    width: 250px;
+
+}
+
+.ourspecail button{
+    background-color: #17C1A3;
+}
