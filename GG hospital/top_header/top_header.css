@@ -5,7 +5,7 @@
 
 .content {
     position: absolute;
-    top: 20px;
+    top: 100px;
     margin-left: 100px;
     margin-top: 100px;
 }
@@ -66,7 +66,7 @@ button {
 }
 
 .dept{
-   margin-top: 120px;
+   margin-top: 250px;
    text-align: left;
 }
 
@@ -77,19 +77,52 @@ button {
 
 .depttext{
     display: flex;
-    margin-right: 115px;
     justify-content: space-between;
+
+}
+
+#dept-textcolumn{
+    width: 360px;
 }
 
 .dept img{
     width: 360px;
-    height: 200px;
 }
 
-.readmore{
+#readmore{
+    color: #17C1A3;
+}
+
+.whyggcontainer{
+    background-color: #EAF2FF; 
     display: flex;
-    color: rgb(13, 224, 154);
-    font-size: 15px;
-    justify-content: space-between;
-    margin-right: 270px;
+    width: 100%;
+    height: fit-content;
+    margin-top: 100px;
+}
+
+
+#whyggbg{
+    width: 650px;
+}
+
+.whyggtext{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.whyggtick{
+    display: flex;
+    align-items: center;
+}
+
+.whyggtick p{
+    margin: 12px;
+}
+
+#tickimage{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+
 }
