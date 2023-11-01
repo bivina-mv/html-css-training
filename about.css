@@ -1,0 +1,31 @@
+
+.top{
+    margin-top: 80px;
+}
+.container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
+
+.left-column {
+  flex: 1;
+  color: rgb(4, 4, 56);
+  align-items: center;
+  margin-left: 70px;
+}
+.right-column {
+  flex: 3;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  padding-right: 10px;
+  align-items: center;
+}
+
+img {
+  border-radius: 50%;
+}
+

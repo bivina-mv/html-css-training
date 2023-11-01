@@ -1,0 +1,70 @@
+.container{
+    position: relative; 
+    width: 100%;
+}
+
+.content {
+    position: absolute;
+    top: 20px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.book{
+    background-color: rgb(64, 194, 140);
+    border-radius: 10px;
+    font-size: 14px;
+    border: none;
+    color: white;
+}
+
+.image-body{
+    max-width: 1200px;
+    max-height: 900px;
+    margin-left: 80px;
+    margin-right: 80px;
+    top:700px;
+}
+
+.rows{
+    display: flex;
+    padding: 10px 30px;
+    text-align: center;
+    font-family: sans-serif;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+
+.forms{
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    margin-top:80px;
+    justify-content: space-between;
+    margin-left: 45px;
+}
+
+input{
+    height:40px;
+    margin: 10px;
+    width: 230px;
+    border-radius: 5px;
+}
+
+select{
+    height: 44px;
+    margin: 10px;
+    width: 240px;
+    border-radius: 5px;
+}
+
+button {
+    height: 44px;
+    margin: 10px;
+    width: 240px;
+    border-radius: 5px;
+}
+
+.dept{
+    margin-top: 300px;
+}

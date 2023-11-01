@@ -1,0 +1,36 @@
+
+#clrRed{
+    color: red;
+    text-align: center;
+}
+#p{
+    color: white;
+    text-align: center;
+}
+.bgclr{
+    background-color: aquamarine;
+}
+.bgred{
+    background-color:red;
+    padding: 15px;
+}
+.bgblue{
+    background-color:blue;
+    padding: 15px;
+}
+.bgwhite{
+    background-color: wheat;
+    padding: 15px;
+}
+
+ol{
+    background-color: wheat;
+}
+.unorder{
+    padding: 7px;
+}
+ul li{
+    margin: 7px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
