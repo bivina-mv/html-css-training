@@ -156,4 +156,85 @@ button {
 
 .ourspecail button{
     background-color: #17C1A3;
+    color: white;
+    width: 160px;
+    border-style: none;
+    margin-top: 30px;
+}
+
+
+.facilities{
+    margin-top: 70px;
+    align-items: center;
+    text-align: center;
+}
+
+.facilities-imag{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+
+#facilities-size{
+    width: 350px;
+
+}
+
+
+.interested{
+    margin-top: 70px;
+    align-items: center;
+    max-width: 1200px;
+    margin-left: 50px;
+}
+
+.interested-imag{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+
+}
+
+#interested-size{
+    width: 350px;
+
+}
+
+.interested-text{
+    display: flex;
+    text-align: justify;
+}
+
+.subscribe{
+    margin-top: 100px;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+    padding: 80px;
+}
+
+.intrest-subscribe{
+    background-color: #EAF2FF;
+    width: 1300px;
+}
+
+.mailid{
+    display: flex;
+}
+
+.mailid input{
+    border-style: none;
+    margin: 3px;
+}
+.mailid button{
+    border-style: none;
+    background-color: #17C1A3;
+    color: white;
+    width: 150px;
+    margin: 3px;
+}
+hr{
+    margin: 3px;
 }
