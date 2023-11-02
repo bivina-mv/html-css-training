@@ -193,7 +193,6 @@ button {
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
-
 }
 
 #interested-size{
@@ -207,17 +206,24 @@ button {
 }
 
 .subscribe{
-    margin-top: 100px;
+    /* margin-top: 200px; */
     display: flex;
     background-color: white;
     align-items: center;
     justify-content: space-between;
     padding: 80px;
+    width: 70%;
+    margin-left: 8%;
 }
 
 .intrest-subscribe{
+    
+    margin-top: -200px;
+    z-index: -1;
     background-color: #EAF2FF;
-    width: 1300px;
+    /* width: 1300px; */
+    height: 400px;
+    padding-top: 280px;
 }
 
 .mailid{
@@ -237,4 +243,10 @@ button {
 }
 hr{
     margin: 3px;
+}
+
+.footer{
+    margin-top: 50px;
+    background-color: white;
+    display: flex;
 }
